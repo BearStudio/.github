@@ -5,43 +5,58 @@
 You are carrying an innovative digital project, but you don’t know where to
 start? Don't worry, BearStudio is there for you!
 
-## About us
+## 🚀 What is BearStudio?
 
-BearStudio is a french den full of digital experts. The whole BearStudio team
-is here to support you in making all your wildest dreams come true! Whether you
-are an entrepreneur, project leader or a large company, we will dedicate all our
-knowledge and skills to the service of your project needs.
+**BearStudio** is a French digital product studio founded in **2016**. We help companies design, build and scale **web and mobile applications**.
+Our team combines **UX design, front-end and back-end development** to turn ideas into reliable digital products.
 
-## What do we do?
+We support teams at every stage of their product journey:
+- 💡 Product discovery & feasibility studies  
+- 🎨 UX / UI design  
+- ⚛️ Web & mobile development  
+- 🧠 Technical architecture & CTO support  
+- 🤖 AI integration  
+- 🚀 Product acceleration & scaling  
 
-The BearStudio team is here to help you at any stage of your project! We are
-able to back you up from idea to production. Composed of UX designers, Front-End
-and Back-End developers, our team is utterly dedicated to the best
-implementation of your project.
+Whether you are starting from scratch or improving an existing platform, we help you create **robust, scalable and user-focused digital products**.
+
+# 🤖 Artificial Intelligence
+
+Artificial Intelligence is transforming the way digital products are designed and built. At BearStudio, we help companies **integrate AI into real products**, from experimentation to production. Our approach focuses on **practical and responsible AI**, always aligned with real user and business needs.
+
+We work on topics such as:
+- AI-powered features in web and mobile applications  
+- Generative AI integrations (LLMs, assistants, copilots)  
+- Automation of complex workflows
+
+Our goal is not to add AI for the sake of it, but to **create meaningful product experiences enhanced by intelligent technologies**.
+
+You can also learn more about our [AI expertise](https://www.bearstudio.fr/fr/prestations/intelligence-artificielle)
 
 ## Open Source
 
-We also do a lot of Open Source. We are proud to give back to the community as
-we use a lot of Open Source tools ourselves. Our main project is a collection
-of starters named 🚀 Start UI:
+We actively contribute to Open Source and love giving back to the community, as we rely on many Open Source tools ourselves. Our main project is a collection of starters called 🚀 Start UI:
 
-- [🚀 Start UI [web]](https://github.com/BearStudio/start-ui-web) our principal
-  project, based on NextJS, using TypeScript, Chakra UI, React-Query and other
-  cool technologies.
+- [🚀 Start UI [web]](https://github.com/BearStudio/start-ui-web) our most complete web starter, built with NextJS, TypeScript, Chakra UI, and React-Query, ready for PWA, SEO, SPA, and SSR. It includes ESLint, Prettier, testing setup, internationalization, and dark mode support to boost productivity and maintain high-quality code.
 
-- [🚀 Start UI [native]](https://github.com/BearStudio/start-ui-native) the same
-  project, but using React Native and related technologies.
+- [🚀 Start UI [native]](https://github.com/BearStudio/start-ui-native) the mobile version built with React Native, designed for quickly launching apps on stores with a robust architecture.
 
-- [🚀 Start UI [figma]](https://github.com/BearStudio/start-ui-figma) the base
-  for the UI of the two previous projects.
-
-- [🚀 Start UI [colors]](https://github.com/BearStudio/start-ui-colors) a work
-  in progress project that will be a plugin for Figma.
+- [🚀 Start UI [figma]](https://github.com/BearStudio/start-ui-figma) a Figma file that complements the two starters, providing ready-to-use components so designers and developers can work in perfect sync.
 
 You can also learn more in [a blog post](https://www.bearstudio.fr/blog/actualites-web-numerique/start-ui)
 written on [bearstudio.fr](https://bearstudio.fr/).
 
 We have also contributed to other projects such as JHipster, Chakra UI, Formiz.
+
+## 🤝 Work With Us
+
+Do you have a **digital product idea** or want to **take your project to the next level**?  
+
+BearStudio helps you **design, develop, and scale your digital products**. We combine UX/UI design, web and mobile development, technical architecture, and AI integration to provide **full, tailored support**.  
+
+Whether it’s to **launch a new product**, **improve an existing app**, or **explore AI to enhance your services**, we turn your ideas into **real, high-performing solutions**.  
+
+🌐 [Contact us](https://www.bearstudio.fr/fr/contact)
 
 ## Socials - Contact
 
