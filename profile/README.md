@@ -43,8 +43,8 @@ We actively contribute to Open Source and love giving back to the community, as 
 
 - [🚀 Start UI [figma]](https://github.com/BearStudio/start-ui-figma) a Figma file that complements the two starters, providing ready-to-use components so designers and developers can work in perfect sync.
 
-You can also learn more in [a blog post](https://www.bearstudio.fr/blog/actualites-web-numerique/start-ui)
-written on [bearstudio.fr](https://bearstudio.fr/).
+You can also learn more in [a blog post](https://www.bearstudio.fr/en/blog/posts/start-ui-opinionated-ui-starter)
+written on [bearstudio.fr](https://bearstudio.fr/en).
 
 We have also contributed to other projects such as JHipster, Chakra UI, Formiz.
 
