@@ -37,7 +37,7 @@ You can also learn more about our [AI expertise](https://www.bearstudio.fr/fr/pr
 
 We actively contribute to Open Source and love giving back to the community, as we rely on many Open Source tools ourselves. Our main project is a collection of starters called 🚀 Start UI:
 
-- [🚀 Start UI [web]](https://github.com/BearStudio/start-ui-web) our most complete web starter, built with NextJS, TypeScript, Chakra UI, and React-Query, ready for PWA, SEO, SPA, and SSR. It includes ESLint, Prettier, testing setup, internationalization, and dark mode support to boost productivity and maintain high-quality code.
+- [🚀 Start UI [web]](https://github.com/BearStudio/start-ui-web) our most complete web starter, built with TanStack Start, TypeScript, Tailwind CSS, and TanStack Query, ready for PWA, SEO, SPA, and SSR. It includes ESLint, Prettier, testing setup, internationalization, and dark mode support to boost productivity and maintain high-quality code.
 
 - [🚀 Start UI [native]](https://github.com/BearStudio/start-ui-native) the mobile version built with React Native, designed for quickly launching apps on stores with a robust architecture.
 
